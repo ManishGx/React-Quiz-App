@@ -1,16 +1,33 @@
-# React + Vite
+# React Quiz App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beginner-friendly quiz application built with **React.js**. Users can answer multiple-choice questions, view their scores in real-time, and reset the quiz. This project helped me learn **React hooks, state management, and basic UI design**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Dynamic multiple-choice questions  
+- Real-time answer validation with visual feedback (correct/wrong highlights)  
+- Score tracking and result display  
+- Reset quiz functionality  
+- Simple and responsive user interface using CSS
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
+- React.js (functional components, hooks)  
+- JavaScript (ES6)  
+- CSS  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Preview
+![App Screenshot](<img width="1920" height="1080" alt="Screenshot 2025-10-05 192943" src="https://github.com/user-attachments/assets/53441c71-3c6c-4e49-89ee-f00a5daa2a5f" />
+)  
+*(Replace with an actual screenshot of your app if possible)*
+
+---
+
+## 💻 How to Run
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/react-quiz-app.git
