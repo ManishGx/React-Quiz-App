@@ -20,14 +20,8 @@ A beginner-friendly quiz application built with **React.js**. Users can answer m
 
 ---
 
-## Preview
-![App Screenshot](<img width="1920" height="1080" alt="Screenshot 2025-10-05 192943" src="https://github.com/user-attachments/assets/53441c71-3c6c-4e49-89ee-f00a5daa2a5f" />
-)  
-*(Replace with an actual screenshot of your app if possible)*
-
----
 
 ## 💻 How to Run
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/react-quiz-app.git
+   git clone https://github.com/ManishGx/react-quiz-app.git
